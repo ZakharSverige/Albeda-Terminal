@@ -1,0 +1,6 @@
+pygame
+requests
+pyautogui
+opencv-python
+numpy
+pyperclip
